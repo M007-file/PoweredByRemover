@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="plugin" group="system" method="upgrade">
+    <name>Powered By Kunena Links Remover</name>
+    <version>1.0.9</version>
+    <author>M007-file - www.kopl.pro</author>
+    <creationDate>2025-05-08</creationDate>
+    <description>Remove Powered By Kunena Links by M007-file (from kopl.pro) is a must-have Joomla plugin that cleans your Kunena forum by removing unnecessary "Powered By" links. This prevents spammy backlinks, improves your site's SEO by eliminating low-quality outbound links, and enhances user experience with a cleaner interface. Avoid unwanted redirects and maintain a professional look while boosting your site’s credibility. Lightweight, easy to install, and fully compliant with Joomla standards. Perfect for admins who want full control over their forum’s branding!</description>
+    <files>
+        <filename plugin="remove_powered_by_kunena_links">remove_powered_by_kunena_links.php</filename>
+    </files>
+</extension>
